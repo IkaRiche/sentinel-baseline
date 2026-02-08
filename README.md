@@ -65,3 +65,8 @@ Learn more: github.com/IkaRiche/sentinel-baseline
 ## License
 
 CC BY 4.0 — Use freely, attribution appreciated.
+
+## Next Steps
+
+**Want a hardened reference implementation?**
+Reply `SCORE` on Moltbook or open an issue in this repository.
